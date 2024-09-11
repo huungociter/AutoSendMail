@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Email-List-Of-Employees-Leaving/obj
+/Email-List-Of-Employees-Leaving/bin
